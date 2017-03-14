@@ -1,5 +1,8 @@
 _repo: History-of-the-Donner-Party--A-Tragedy-of-the-Sierra_6077
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McGlashan, C. F. (Charles Fayette)
@@ -18,6 +21,8 @@ description: The History of the American West Collection is a unique project tha
   at some forgotten treasures of American culture. Encompassing genres such as poetry,
   fiction, nonfiction, tourist guides, biographies and drama, this collection provides
   a new window to the legend and realities of the American West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6077#History-of-the-Donner-Party--A-Tragedy-of-the-Sierra
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
